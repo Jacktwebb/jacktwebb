@@ -6,7 +6,7 @@
 
 ### Code.org GameLab
 
-[Robot Face]([https://studio.code.org/s/csd3-2023/lessons/7/levels/2])
+[Robot Face](https://studio.code.org/s/csd3-2023/lessons/7/levels/2)
 > In this project I used shapes, variables, and randomness to express my creativity and created a Random Robot Face.
 
 [Captioned Scenes] (https://studio.code.org/projects/gamelab/55r6cH8HSPxE1ydkwwAi7jqQoo6BMMFfXSa1Vh459E0)
