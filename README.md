@@ -1,3 +1,5 @@
+![octocat-1696338492685](https://github.com/Jacktwebb/jacktwebb/assets/146844010/6b00fd93-14f1-4159-8185-f44dc96db462)
+
 About Me
 - 🌱I am currently learning to code at Walpole High School
 - 💬 ask me about sports!
