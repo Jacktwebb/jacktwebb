@@ -17,7 +17,7 @@ About Me
 [Animation]
 >
 [Interactive Card] (https://studio.code.org/projects/gamelab/VYWMN0GF4NNOfm3lfvyfFFs-Ujm9Pe7SKUgDQjH8BAw)
-> IN this project me and my partner created a game baseball where if you hold space the batter hits a home run.
+> In this project me and my partner created a game baseball where if you hold space the batter hits a home run.
 [Side Scroller]
 >
 [Flyer Game]
