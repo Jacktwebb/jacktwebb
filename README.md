@@ -24,6 +24,7 @@ About Me
 > In this project me and my partner created a game where the goal is to stay afloat in the air as long as possible.
 
 [Platform Game](https://studio.code.org/projects/gamelab/lgz4Mr22hYm56XgGN9evc-N2GFbfOPl8ULv9-rU9jSQ)
+> In this project I created a game to jump platform to platform that are falling from the sky.
 
 [Project - Design a Game](https://studio.code.org/projects/gamelab/enpoRdMnDZ41iFUvaqNhAqRVDrF8k5IgNf__ZvF9oKw)
 >In this project I created a game where the goal is to jump over the fences and collect as much coins as possible (look out for the jump boosts)
