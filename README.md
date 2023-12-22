@@ -17,7 +17,7 @@ About Me
 [Interactive Card](https://studio.code.org/projects/gamelab/VYWMN0GF4NNOfm3lfvyfFFs-Ujm9Pe7SKUgDQjH8BAw)
 > In this project me and my partner created a game baseball where if you hold space the batter hits a home run.
 
-[Side Scroller]https://studio.code.org/projects/gamelab/jOHwcDOCtBvgr_Uh5_Dp6xIsvdWrhY471p1VWCT6ICI
+[Side Scroller](https://studio.code.org/projects/gamelab/jOHwcDOCtBvgr_Uh5_Dp6xIsvdWrhY471p1VWCT6ICI)
 >In this project a dinosaur is tasked to jump over the incoming catci.
 
 [Flyer Game](https://studio.code.org/projects/gamelab/62Rl1O6xGS0N6FHusfr2fkWCQuHhjNLfuksiWqookLc)
