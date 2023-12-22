@@ -21,7 +21,19 @@ About Me
 
 [Side Scroller]
 >
-[Flyer Game]
->
-[Project - Design a Game]
->
+[Flyer Game](https://studio.code.org/projects/gamelab/62Rl1O6xGS0N6FHusfr2fkWCQuHhjNLfuksiWqookLc)
+> In this project me and my partner created a game where the goal is to stay afloat in the air as long as possible.
+
+[Platform Game](https://studio.code.org/projects/gamelab/lgz4Mr22hYm56XgGN9evc-N2GFbfOPl8ULv9-rU9jSQ)
+
+[Project - Design a Game](https://studio.code.org/projects/gamelab/enpoRdMnDZ41iFUvaqNhAqRVDrF8k5IgNf__ZvF9oKw)
+>In this project I created a game where the goal is to jump over the fences and collect as much coins as possible (look out for the jump boosts)
+
+[Hello It's Me](https://ai2.appinventor.mit.edu/#5827418822410240) 
+> In this project click on the instruments to make them play!
+
+[My Piano](https://ai2.appinventor.mit.edu/#5574674089902080)
+> Click on the keys of the paino to mimic the sound of a real Piano!
+
+[Music Maker](https://ai2.appinventor.mit.edu/#6360560192847872)
+> In this project I created a recording music creator to record the beats you make!
