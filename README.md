@@ -14,12 +14,11 @@ About Me
 [Captioned Scenes](https://studio.code.org/projects/gamelab/55r6cH8HSPxE1ydkwwAi7jqQoo6BMMFfXSa1Vh459E0)
 > A creative project of this unit. Using the problem-solving process as a model.
 
-[Animation]
->
 [Interactive Card](https://studio.code.org/projects/gamelab/VYWMN0GF4NNOfm3lfvyfFFs-Ujm9Pe7SKUgDQjH8BAw)
 > In this project me and my partner created a game baseball where if you hold space the batter hits a home run.
 
 [Side Scroller]
+>https://studio.code.org/projects/gamelab/jOHwcDOCtBvgr_Uh5_Dp6xIsvdWrhY471p1VWCT6ICI
 >
 [Flyer Game](https://studio.code.org/projects/gamelab/62Rl1O6xGS0N6FHusfr2fkWCQuHhjNLfuksiWqookLc)
 > In this project me and my partner created a game where the goal is to stay afloat in the air as long as possible.
