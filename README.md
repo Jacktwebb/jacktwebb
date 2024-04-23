@@ -45,13 +45,13 @@ About Me
 >I learned how to make objects appear randomly and infintly. Try your best to get a high score.
 
 [Unit 1 Creative Task](https://academy.cs.cmu.edu/exercise/4132/)
->  Learned to start coding with CMU acamedy! Tried my best to draw Mickey Mouse
+>  Learned to start coding with CMU acamedy, we learned so many new shapes! Tried my best to draw Mickey Mouse
 
 [Unit 2 Creative Task](https://academy.cs.cmu.edu/exercise/6402/)
-> Tried drawing a vinal with the new if-then statements!
+> Tried drawing a vynal with the new if-then statements!
 
 [Unit 3 Creative Task](https://academy.cs.cmu.edu/exercise/4236/)
->Me and my partner tried our best with the new "def" variable to be able to draw on the canvas!
+>In this task My partner and I tried our best with the new "def" variable, and "onKeyPress" to be able to draw on the canvas!
 
 [Unit 4 Creative Task](https://academy.cs.cmu.edu/exercise/4282/)
->Me and my partner tried our best to bring our poker obessions to code with the new If-then-elif statements!
+>Me and my partner tried our best to bring our poker obessions to code with the new conditional If-then-elif statements!
