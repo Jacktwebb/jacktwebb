@@ -37,3 +37,21 @@ About Me
 
 [Music Maker](https://ai2.appinventor.mit.edu/#6360560192847872)
 > In this project I created a recording music creator to record the beats you make!
+
+[Find the Gold](https://gallery.appinventor.mit.edu/?galleryid=eda55ca3-fb95-4de8-abc2-63232bdd3626)
+> I learned how to properly code with properites and boundrys. Try your best to get to the gold!
+
+[Food Chase](https://gallery.appinventor.mit.edu/?galleryid=62f41f36-330b-458f-a8cd-c145dd254c1a)
+>I learned how to make objects appear randomly and infintly. Try your best to get a high score.
+
+[Unit 1 Creative Task](https://academy.cs.cmu.edu/exercise/4132/)
+>  Learned to start coding with CMU acamedy! Tried my best to draw Mickey Mouse
+
+[Unit 2 Creative Task](https://academy.cs.cmu.edu/exercise/6402/)
+> Tried drawing a vinal with the new if-then statements!
+
+[Unit 3 Creative Task](https://academy.cs.cmu.edu/exercise/4236/)
+>Me and my partner tried our best with the new "def" variable to be able to draw on the canvas!
+
+[Unit 4 Creative Task](https://academy.cs.cmu.edu/exercise/4282/)
+>Me and my partner tried our best to bring our poker obessions to code with the new If-then-elif statements!
